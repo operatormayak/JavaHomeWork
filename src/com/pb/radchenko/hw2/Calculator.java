@@ -39,17 +39,6 @@ public class Calculator {
                    res=operand1*operand2;
                     System.out.println("Результат операции:" + res);
                     break;
-
-
-
-
-
-
-
-
-
         }
-
-
     }
 }
