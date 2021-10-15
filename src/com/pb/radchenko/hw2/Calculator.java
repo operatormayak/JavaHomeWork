@@ -15,8 +15,6 @@ public class Calculator {
         sign = input.nextLine();
         System.out.println("Choose an operator: Введите значение");
         operand2 = input.nextInt();
-        //sign = input.next().charAt(0);
-        //input.close();
         switch (sign) {
             case "+":
                 res=operand1+operand2;
